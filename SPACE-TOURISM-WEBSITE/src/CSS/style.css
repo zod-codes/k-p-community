@@ -302,7 +302,7 @@ button {
         border-radius: 50%;
         background-color: rgba(var(--clr-White), 0.2);
         opacity: 0;
-        transition: opacity 700ms linear, transform 1000ms ease-in-out;
+        transition: opacity 700ms linear, transform 1s ease-in-out;
     }
 
     .home-button:hover::after,
