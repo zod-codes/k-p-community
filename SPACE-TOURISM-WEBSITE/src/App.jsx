@@ -5,7 +5,7 @@ import Navbar from "./Components/Navbar";
 function App() {
   return (
     <>
-      <Router>
+      <Router basename="/k-p-community">
         <Navbar />
         <Switch>
           <Route exact path="/">
