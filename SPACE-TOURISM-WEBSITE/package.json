@@ -1,7 +1,7 @@
 { 
-  "homepage": "https://zod-codes.github.io/k-p-community",
+  "homepage": "https://zod-codes.github.io/k-p-community/",
   "name": "react",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
